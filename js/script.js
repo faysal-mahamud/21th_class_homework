@@ -5,10 +5,8 @@ function addition(a,b){
 
 }
 
-let fncone = addition(50,200);
+let fncone = addition(100,50);
 console.log(fncone);
-
-
 
 
 function substraction(a,b){
@@ -18,7 +16,7 @@ function substraction(a,b){
 
     
 }
- let fnctwo = substraction(2000,5000);
+ let fnctwo = substraction(3000,2000);
  console.log(fnctwo)
 
 
